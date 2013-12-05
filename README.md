@@ -1,4 +1,4 @@
 coronaflag
 ==========
 
-Waving flag using Corona Graphics 2.0
+Waving flag demo using Corona Graphics 2.0
