@@ -1,13 +1,13 @@
 settings = {
-	orientation = {
-		default = "landscapeRight",
-		
-		supported = {
-			"landscapeRight", "landscapeLeft"
-		}
-	},
-	
-	android = {
-		components = {}
-	}
+    orientation = {
+        default = "landscapeRight",
+
+        supported = {
+            "landscapeRight", "landscapeLeft"
+        }
+    },
+
+    android = {
+        components = {}
+    }
 }
