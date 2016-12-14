@@ -1,4 +1,3 @@
---
 -- main.lua
 --
 -- Ingemar Bergmark
